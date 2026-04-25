@@ -1,0 +1,2 @@
+Local URL: http://localhost:8501
+Network URL: http://10.217.151.57:8501
